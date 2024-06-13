@@ -1,2 +1,0 @@
-# SmileCloud
-WeatherApp
